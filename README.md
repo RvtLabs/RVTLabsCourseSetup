@@ -43,12 +43,13 @@ Complete setup guide from machine preparation to ready-to-use ROS 2 environment.
 - Graphics card with OpenGL support (for Gazebo simulation)
 - Stable internet connection
 
+## Step 2: Ubuntu 22.04 Installation
+
 **Why Ubuntu 22.04 and ROS 2 Humble?**
 - **Long Term Support**: ROS 2 Humble LTS has official support until May 2027
 - **Proven Stability**: Ubuntu 22.04 + Humble is the most tested combination
 - **Educational Focus**: Best choice for learning robotics fundamentals
 
-## Step 2: Ubuntu 22.04 Installation
 
 Choose the best option for your situation:
 
@@ -118,4 +119,4 @@ You should see the talker saying that it's Publishing messages and the listener 
 
 ## Next Steps
 
-✅ **Setup Complete!** → Continue to [Exercises 1: ROS 2 Introduction](/1-ros_2_introduction/README.md)
+✅ **Setup Complete!** → Stay Tunned more updates comming soon..
