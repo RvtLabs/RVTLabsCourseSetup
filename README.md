@@ -16,7 +16,8 @@ Complete setup guide from machine preparation to ready-to-use ROS 2 environment.
 ## What is Ubuntu and Why Do We Need It?
 
 ### What is Ubuntu?
-**Ubuntu** is a free, open-source Linux-based operating system that serves as the standard platform for robotics development. It provides:
+**Ubuntu** is a free, open-source Linux-based operating system that serves as the standard platform for robotics development. 
+It provides:
 - **User-friendly**: Easy to install and use, accessible for beginners
 - **Professional-grade**: Stable and reliable for development and production
 - **Open source**: Free to use with strong community support
@@ -29,15 +30,6 @@ Complete setup guide from machine preparation to ready-to-use ROS 2 environment.
 - **📦 Easy Installation**: One-command software installation via `apt` package manager
 - **🌐 Large Community**: Extensive documentation, tutorials, and support ecosystem
 - **💡 Development Tools**: Native C++/Python support and robotics-optimized tools
-
-### Ubuntu vs Other Operating Systems
-
-| Feature | Ubuntu | Windows | macOS |
-|---------|--------|---------|-------|
-| ROS 2 Support | ✅ Native | ⚠️ Limited/WSL | ⚠️ Limited |
-| Performance | ✅ Optimal | ❌ Overhead | ❌ Limited |
-| Cost | ✅ Free | ❌ Licensed | ❌ Hardware Cost |
-| Robotics Ecosystem | ✅ Complete | ⚠️ Partial | ⚠️ Partial |
 
 ### Windows vs Ubuntu (Quick Comparison)
 
@@ -90,8 +82,7 @@ Choose the best option for your situation:
 Once Ubuntu 22.04 is running:
 
 1. **Follow the complete guide**: [ROS 2 Humble Installation Guide](ROS2%20Installation%20Guide.md)
-2. **Install Desktop version** (includes RViz, demos, tutorials)
-3. **Verify installation** with the examples below
+2. **Verify installation** with the examples below
 
 ### Verification: Talker-Listener Test
 
