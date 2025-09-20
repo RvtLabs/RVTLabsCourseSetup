@@ -2,6 +2,17 @@
 
 Complete setup guide from machine preparation to ready-to-use ROS 2 environment.
 
+## Step 1: Machine Requirements
+
+**Hardware Prerequisites:**
+- Intel or AMD processor (x64 architecture)
+- Minimum 8GB RAM (16GB recommended)
+- Minimum 50GB free storage
+- Graphics card with OpenGL support (for Gazebo simulation)
+- Stable internet connection
+
+## Step 2: Ubuntu 22.04 Installation
+
 ## What is Ubuntu and Why Do We Need It?
 
 ### What is Ubuntu?
@@ -33,17 +44,6 @@ Complete setup guide from machine preparation to ready-to-use ROS 2 environment.
 - **Windows**: Familiar interface, requires WSL for ROS 2, paid licensing
 - **Ubuntu**: Developer-focused, native ROS 2 support, completely free
 - **For Robotics**: Ubuntu is industry standard with better performance and tooling
-
-## Step 1: Machine Requirements
-
-**Hardware Prerequisites:**
-- Intel or AMD processor (x64 architecture)
-- Minimum 8GB RAM (16GB recommended)
-- Minimum 50GB free storage
-- Graphics card with OpenGL support (for Gazebo simulation)
-- Stable internet connection
-
-## Step 2: Ubuntu 22.04 Installation
 
 **Why Ubuntu 22.04 and ROS 2 Humble?**
 - **Long Term Support**: ROS 2 Humble LTS has official support until May 2027
